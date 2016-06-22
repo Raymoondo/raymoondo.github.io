@@ -47,3 +47,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+#para1 {
+    text-align: center;
+    color: red;
+}
